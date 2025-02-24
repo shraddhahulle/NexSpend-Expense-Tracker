@@ -3,6 +3,10 @@ export default {
     rollupOptions: {
       input: "/src/main.tsx",
       external: ["/src/main.tsx"],
+      export default {
+  base: "./",
+};
+
     },
   },
 };
