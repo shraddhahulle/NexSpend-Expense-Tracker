@@ -1,0 +1,15 @@
+// https://vitejs.dev/config/
+{
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "@vitejs/plugin-react"
+      }
+    ]
+  },
+  "build": {
+    "rollupOptions": {
+      "input": "index.html" // Ensures correct build entry point
+    }
+  }
+}
