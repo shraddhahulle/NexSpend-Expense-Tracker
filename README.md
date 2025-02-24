@@ -4,10 +4,13 @@ NexSpend is an advanced expense management solution designed to help users track
 
 🚀 Demo Video
 
-🎥 Watch the NexSpend Demo:Click the thumbnail to view the full demo hosted on GitHub.
+🎥 Watch the NexSpend Demo:Linkdein
 
-Alternatively, you can download the demo video directly: Download Demo Video
+Your browser does not support the video tag.
 
+Click play to view the demo video directly.
+
+Alternatively, you can download the demo video if it doesn't play inline.
 
 ✨ Features
 
@@ -63,9 +66,6 @@ Dashboard View
 Expense Analytics
 
 
-
-
-
 🤝 Contributing
 
 Contributions are welcome! 🙌
@@ -77,11 +77,6 @@ Create your feature branch: git checkout -b feature/new-feature.
 Commit changes: git commit -m 'Add new feature'.
 
 Push to branch: git push origin feature/new-feature.
-
-Open a Pull Request.
-
-
-🚀 Acknowledgments
 
 “Manage your expenses, plan your future with NexSpend!” 💸📊
 
