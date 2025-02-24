@@ -36,7 +36,7 @@ Deployment: Netlify (Frontend), [Deployment Pending for Backend]
 
 1️⃣ Clone the Repository:
 
-git clone https://github.com/yourusername/nexspend.git
+git clone https://github.com/shraddhahulle/nexspend.git
 cd nexspend
 
 2️⃣ Frontend Setup:
