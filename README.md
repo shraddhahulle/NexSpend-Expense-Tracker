@@ -4,11 +4,10 @@ NexSpend is an advanced expense management solution designed to help users track
 
 🚀 Demo Video
 
-🎥 Watch the NexSpend Demo:Click the thumbnail to view the full demo.
-
-(Replace VIDEO_ID with your actual YouTube video ID.)
+🎥 Watch the NexSpend Demo:Click the thumbnail to view the full demo hosted on GitHub.
 
 Alternatively, you can download the demo video directly: Download Demo Video
+
 
 ✨ Features
 
@@ -33,11 +32,6 @@ Database: SQL
 Deployment: Netlify (Frontend), [Deployment Pending for Backend]
 
 📝 Installation & Setup
-
-1️⃣ Clone the Repository:
-
-git clone https://github.com/shraddhahulle/nexspend.git
-cd nexspend
 
 2️⃣ Frontend Setup:
 
