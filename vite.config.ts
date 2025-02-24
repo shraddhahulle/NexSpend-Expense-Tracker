@@ -1,11 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-export default defineConfig({
-  plugins: [react()],
+// vite.config.js
+export default {
   build: {
     rollupOptions: {
-      input: 'index.html' // Ensures correct build entry point
-    }
-  }
-})
+      external: ["/src/main.tsx"], // Externalizing main.tsx
+    },
+  },
+};
