@@ -1,82 +1,76 @@
 NexSpend
 
-NexSpend is an advanced expense management solution designed to help users track and manage their finances efficiently. With a user-friendly interface, the app provides comprehensive insights into spending habits, ensuring better financial planning.
+NexSpend is an expense tracker application designed to help users manage their finances efficiently. The project includes a frontend built with modern web technologies and will eventually integrate a backend using Spring Boot and MySQL.
 
-🚀 Demo Video
+Features
 
-🎥 Watch the NexSpend Demo:Linkdein
+User-friendly interface for tracking expenses
 
-Your browser does not support the video tag.
+Category-wise expense management
 
-Click play to view the demo video directly.
+Responsive design using Tailwind CSS
 
-Alternatively, you can download the demo video if it doesn't play inline.
+Backend integration (planned) with Spring Boot and MySQL
 
-✨ Features
+Tech Stack
 
-Real-Time Expense Tracking: Monitor your spending instantly.
+Frontend: React, TypeScript, Tailwind CSS
 
-Detailed Analytics: Visualize your expenses with charts and graphs.
+Backend: (Planned) Spring Boot, MySQL
 
-Budget Management: Set and manage monthly budgets effortlessly.
+Installation
 
-Secure & Private: Your data is encrypted and stored securely.
+Prerequisites
 
-Multi-Device Support: Access NexSpend on both mobile and desktop.
+Make sure you have the following installed on your system:
 
-🛠️ Tech Stack
+Node.js (v16 or later)
 
-Frontend: HTML, CSS, JavaScript, AJAX
+npm or yarn
 
-Backend: Java, Spring Boot
+Steps to Run the Project
 
-Database: SQL
+Clone the repository:
 
-Deployment: Netlify (Frontend), [Deployment Pending for Backend]
+git clone <repository-url>
+cd NexSpend
 
-📝 Installation & Setup
+Install dependencies:
 
-2️⃣ Frontend Setup:
+npm install
 
-cd frontend
-npm install  # Install dependencies
-npm run dev   # Run development server
+Start the development server:
 
-3️⃣ Backend Setup:
+npm run dev
 
-cd backend
-./mvnw spring-boot:run  # Start backend server
+Open the application in your browser at http://localhost:5173
 
-🌍 Deployment
+Folder Structure
 
-Frontend:
+NexSpend/
+│── public/             # Static assets
+│── src/                # Main source code
+│   │── components/     # Reusable components
+│   │── pages/         # Page-level components
+│   │── styles/        # Styling files
+│── package.json       # Project dependencies
+│── tailwind.config.js # Tailwind CSS configuration
+│── tsconfig.json      # TypeScript configuration
 
-Deployed on Netlify.
+Future Enhancements
 
-Access live site: NexSpend Live Site
+Implement authentication and user accounts
 
-Backend:
+Add detailed reports and charts
 
-Deployment in progress. Use local setup for now.
+Integrate Spring Boot backend for data persistence
 
-🖥️ Screenshots
+Contributing
 
-Dashboard View
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-Expense Analytics
+License
 
+This project is licensed under the MIT License.
 
-🤝 Contributing
-
-Contributions are welcome! 🙌
-
-Fork the repo.
-
-Create your feature branch: git checkout -b feature/new-feature.
-
-Commit changes: git commit -m 'Add new feature'.
-
-Push to branch: git push origin feature/new-feature.
-
-“Manage your expenses, plan your future with NexSpend!” 💸📊
 
