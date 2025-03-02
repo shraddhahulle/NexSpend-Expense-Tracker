@@ -6,6 +6,8 @@ Features
 
 User-friendly interface for tracking expenses
 
+link to project- https://drive.google.com/file/d/1tz02rAgQXCX05ZvRxU9Ugm7UAYgCQXXw/view?usp=sharing
+
 Category-wise expense management
 
 Responsive design using Tailwind CSS
