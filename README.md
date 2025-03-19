@@ -19,6 +19,12 @@ Frontend: React, TypeScript, Tailwind CSS
 
 Backend: (Planned) Spring Boot, MySQL
 
+
+## Screenshots
+
+![App Interface](nexspend.png)  
+
+
 Installation
 
 Prerequisites
