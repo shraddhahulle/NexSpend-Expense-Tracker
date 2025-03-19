@@ -27,7 +27,7 @@ Prerequisites
 This is my project README.
 
 ## Screenshot
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/NexSpend.png)
 
 
 Make sure you have the following installed on your system:
