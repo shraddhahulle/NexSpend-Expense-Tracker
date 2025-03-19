@@ -23,13 +23,6 @@ Installation
 
 Prerequisites
 
-# My Project
-This is my project README.
-
-## Screenshot
-![App Screenshot](images/NexSpend.png)
-
-
 Make sure you have the following installed on your system:
 
 Node.js (v16 or later)
