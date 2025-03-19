@@ -6,8 +6,7 @@ Features
 
 User-friendly interface for tracking expenses
 
-link to project- https://drive.google.com/file/d/1tz02rAgQXCX05ZvRxU9Ugm7UAYgCQXXw/view?usp=sharing
-
+link to project- https://snazzy-longma-fefb06.netlify.app/
 Category-wise expense management
 
 Responsive design using Tailwind CSS
