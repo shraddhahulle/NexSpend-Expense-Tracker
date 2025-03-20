@@ -21,9 +21,7 @@ Backend: (Planned) Spring Boot, MySQL
 
 
 ## Screenshots
-
-![App Interface](nexspend.png)  
-
+![Screenshot (203)](https://github.com/user-attachments/assets/59d7f6ea-f35a-4466-b0a4-8d5c1219eee2)
 
 Installation
 
@@ -51,6 +49,7 @@ Start the development server:
 npm run dev
 
 Open the application in your browser at http://localhost:5173
+
 
 Folder Structure
 
