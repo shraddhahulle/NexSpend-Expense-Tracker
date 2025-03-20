@@ -65,6 +65,12 @@ NexSpend/
 
 Future Enhancements
 
+![Screenshot (236)](https://github.com/user-attachments/assets/19255c11-d0de-40ef-a76b-a0ff65e41b67)
+
+
+![Screenshot (235)](https://github.com/user-attachments/assets/a72e4053-5c29-41f7-bab8-d3d438079cb0)
+
+
 Implement authentication and user accounts
 
 Add detailed reports and charts
