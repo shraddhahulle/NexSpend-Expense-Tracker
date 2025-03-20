@@ -21,7 +21,7 @@ Backend: (Planned) Spring Boot, MySQL
 
 
 ## Screenshots
-![Screenshot (203)](https://github.com/user-attachments/assets/59d7f6ea-f35a-4466-b0a4-8d5c1219eee2)
+![Screensho![NexSpend](https://github.com/user-attachments/assets/5f4625c1-ec50-4b4f-a2d5-f23d8f13bcd1)
 
 Installation
 
